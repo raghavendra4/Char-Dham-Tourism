@@ -1,0 +1,612 @@
+<resources>
+    <string name="app_name">Tourism</string>
+    <string name="y_des"> <b>Yamunotri </b>Temple lies in the western Garhwal Himalayas at an elevation of about 3,291mts.The majestic mountains, mesmerizing springs of Surya Kund and Gouri Kund  flowing hot and cold water respectively,and River Yamuna flowing gracefully provides a tranquil-filled atmosphere around Yamunotri temple.People believes that on “Akshaya Tritiya” ,the goddess comes back to grace Yamunotri again. So, that the both closing and opening ceremonies of the Yamunotri shrine are brought about with celebrations .
+ </string>
+    <string name="KHARSALIDES">• <b>Kharsali </b>is a quaint Himalayan village which is about 8km from Yamunotri.There is an Untouched village of Kharsali also known as “KHUSHIMATH” which is cradled with love in the Uttarkashi district of Uttarkhand.We can walk around and explore the village at our steps.Since the Yamunotri Shrine becomes inaccessible in winters ,due to heavy snowfall.So,that the deity is brought here for worshipping.
+    </string>
+    <string name="hanu">
+        •	<b>Hanuman Chatti </b> is located at the confluence of the Hanuman Ganga and Yamuna rivers.It is located at the Distance of 13kms from Yamunotri.Hanuman Chatti is nestled in the Himalayas and surrounded by the dense forests.The riverside scenic beauty at Hanuman Chatti acts as a Perfect place to experience nature and the Countryside.It is mostly frequented by the travlers because it is a popular trekking spot in the region.
+    </string>
+    <string name="gangotrides">
+<b>Gangotri Dham</b>, located at the height of 3,100 meters on the Himalayan range in Uttarkashi district of Uttarakhand, one of the char dhams (the most sacred pilgrimage circuits in northern India with four holy destinations), Gangotri, in Uttarkashi, is a small town with the temple of Goddess Ganga at its heart. It holds a very special place in the hearts of Hindus. Amongst all the natural beauty and grace which the mountains and altitude of the place affords, what makes Gangotri one of the holiest places is its familiar connection with River Ganga (the Ganges). Gangotri offers stunning views all around.
+    </string>
+    <string name="kedarnath">
+<b>O</b>ne of the most revered temple destinations of India, Kedarnath town is nestled in the mighty Garhwal Himalayas .It is located in the Rudraprayag district of Uttarkhand, is one of the most paramount locations for worshipers of Lord Shiva. It is an uphill trek for about 22 kilometers from Gauri kund.  A Conical rock formation inside the temple is worshipped as Lord Shiva in his “Sadashiva” form.
+    </string>
+    <string name="saptarishi">
+•	Saptarshi kund is located at a distance of 10kms from Yamunotri.To reach the Saptarshi kund we need to go through an difficult Trek but the sight of the emerald blue lake is surrounded by frozen glaciers which is very impressive.This lake is also said to be the source of the rare lotus “Bhrama Kamal”.This glacier lake of a half kilometer long , is surrounded by the rocky glaciers and is fed by Champasar glacier.
+    </string>
+    <string name="janki">
+        •	Janki Chatti is familiarly known for its Hot water Springs. It is situated at an elevation of 2,650 mts above sea level and it is also popular for its natural splendour.It is located at the distance of 6kms from Yamunotri which is totally surrounded by the high mountains at all sides.
+    </string>
+    <string name="bad_des">
+        The Badrinath Temple also known as the Badrinarayan Temple, located in Uttarakhand Badrinath town. Badrinath is sacred to Lord Vishnu, particularly in Vishnu dual form of Nara-Narayana. It is one of the four Char Dhams (four important pilgrimages) in the state. Badrinath temple was re-established by “Adi Shankracharya” in the 8th century as part of his mission to brighten Hinduism. Badrinath is located at an altitude of around 3,100 m which is located in the Garhwal Himalayas, on the banks of the Alaknanda river.
+    </string>
+    <string name="gauri_kund">GAURI KUND</string>
+    <string name="k_gk_des">•	Gauri Kund Temple is a temple dedicated to Goddess Parvati, also known as Gauri. It is the starting point of the 16kms Trek towards the Kedarnath . Devotees believed that this were the site where the Goddess Parvati had meditated to marry Lord Shiva. Half kilometer from Gauri Kund is the temple of “Srikata Ganesha”. As per Skanda purana, this was the place where shiva beheaded Ganesha and attached the head of an Elephant on his headless body.
+
+</string>
+    <string name="nainital">
+  <b>Nainital</b> is a city and popular hill station in Nainital district of Uttarakhand, India. It is the charming Himalayan Lake town, is an attractive perfect hill-station and one of the most popular in Northern India. Nainital is located in the Kumaon foothills of the outer Himalayas and Situated at an altitude of 1,938 meters (6,358 ft) above sea level which is commonly known as the ‘Lake District’.
+
+
+    </string>
+    <string name="RISHII">
+<b>Rishikesh</b> is a tehsil located in Uttarakhand’s Tehri Garhwal region right on the banks of the holiest of Indian rivers, the Ganges. Rishikesh is also known for its connection with The Beatles. Rishikesh is also a town of quaint cafes, which offer local and international cuisines and are mostly packed with tourists.Interestingly, in the last couple of years, Rishikesh has become very popular for its vibrant Holi celebrations, mostly organised by private hotels and resorts
+    </string>
+    <string name="gaurikund"><b>Gauri Kund </b>Temple is a temple dedicated to Goddess Parvati, also known as Gauri. It is the starting point of the 16kms Trek towards the Kedarnath . Devotees believed that this were the site where the Goddess Parvati had meditated to marry Lord Shiva. Half kilometer from Gauri Kund is the temple of “Srikata Ganesha”. As per Skanda purana, this was the place where shiva beheaded Ganesha and attached the head of an Elephant on his headless body.
+
+</string>
+    <string name="BHAIRAV">•	<b>Bhairavnath</b> temple is located at a distance of 500m from Kedarnath which is situated in south of the kedarnath temple on the eastern hill of the lofty Himalayas of Uttarkhand . Lord Bhairav is believed to be an incarnation of Lord Shiva and the temple is Dedicated to him.Bhairavnath Temple is one of the most popular temples in Kedarnath after Kedarnath temple. According to myth, When Kedarnath Temple closes due to Heavy Snow fall, the deity in Bhairavnath temple protects the main temple area as well as the whole Kedarnath valley.
+    </string>
+    <string name="attractions">ATTRACTIONS</string>
+    <string name="panch_dhara_and_panch_shila">PANCH DHARA AND PANCH SHILA</string>
+    <string name="vasundara_falls">VASUNDARA FALLS</string>
+    <string name="santopanth_tal">SATOPANTH TAL</string>
+    <string name="hemkund_sahib">HEMKUND SAHIB</string>
+
+    <string name="lake">
+     <b>Nainital Lake</b>, famously known as Naini Lake is the major attraction of Naintal town as well of Uttarakhand. The most popular attraction in the town, the shimmering lake is surrounded by seven panoramic hills, snowy peaks, and rows of willows. It is surrounded by panoramic seven hills, Nainital lake is a favourite spot among romantic travellers around the world. An all-year round destination, the lake is well-known for boating, yachting and other water sports, and colourful boats spot the water along with quacking ducks.
+    </string>
+    <string name="zoo">
+    <b>Nainital Zoo</b> is one of the best attraction for wildlife lovers in Nainital. The Pt Govind Ballabh Pant High Altitude Zoo in Nainital is popularly known as Nainital Zoo. One of the most well-known family destinations, the zoo is rested on the Sher Ka Danda hill at an altitude of 2,100 m above sea level. Covering a small green area of 4.693 Hectares, Nainital Zoo is the home of numerous endangered species, many of which are adopted by people and animal organizations. The zoo is also home to several species of birds.
+    </string>
+    <string name="vasudara">
+        Vasudhara Falls is located at a distance of 10kms from Badrinath. The fluid sweet, Vasudhara Falls flowing near the holy city of Badrinath is one of the most fascinating places to visit in Uttarakhand. A trek of around 10 km from Badrinath will bring you to this beautiful waterfall. This beautiful waterfall drops from a height of 400 feet about 122 meters above sea level. People believe that the heavenly beauty of the Vasudhara falls can only be enjoyed by those who are clean, pure and unstained from guilt.
+    </string>
+    <string name="TEMPLE">
+        A well known Shakti Peeths of Hindu religion, Naini Devi Temple is sacred place of great devotion in Nainital. One of the most admired temples in India, the two eyes of the Goddess represent divinity here. Devotees from faraway place comes here to take blessing of Maa Naina Devi. Devotees from faraway place comes here to take blessing of Maa Naina Devi.
+    </string>
+    <string name="KAINCHI">
+  <b>Kainchi Dham</b> is a Hanuman Temple and Ashram which is established by a great saint Neem karoli Baba in 1960s. It is located between two hills that cut and cross each other to create the shape of a pair of scissors. There is a cave near the Kainchi temple, which is said to be the place where Baba Neem Karoli used to meditate and pray.
+    </string>
+    <string name="jhula">
+  <b>Lakshman Jhula</b> is an iron suspension bridge over the holy river Ganga at Rishikesh. It is Built-in 1939, this 137-m-long suspension bridge at a height of 21 m above the river is considered to be at the same location where it is said Lord Lakshmana (from the epic Ramayana) crossed the river Ganges with the help of jute ropes. A famous landmark place in Rishikesh, Lakshman Jhula is 450 feet length connecting Pauri district with Tehri district. Nearby is the suspension bridge Ram Jhula. The 3-km walk from Lakshman jhula to Ram jhula is an interesting one, with the road lined by small shops selling attractive kick-knacks. Lakshman Jhula also offers a panoramic view of river Ganga and Rishikesh city having number of temples.
+    </string>
+    <string name="panch">
+<b>Panch Dhara</b> is a group of five water streams that originate at Badrinath. They are: Prahlad Dhara ,Kurma Dhara,Bhrigu Dhara,Urvashi Dhara,Indira Dhara are collectively known as ‘Panch Dharas’ at Badrinath. Out of the five, the most outstanding stream is the Indira Dhara, which is located at a distance of 1.5 km from Badrinath. Urvashi Dhara is on the right of river Rishi Ganga. Bhrigu Dhara passes through a number of caves. Water of Kurma Dhara is extremely cold while Prahlad Dhara has lukewarm water.
+
+    </string>
+
+    <string name="hemkund">
+ <b>Hemkund Sahib</b>  (also spelled Hemkunt), formally known as Gurudwara Shri Hemkund Sahib Ji, is a Sikh place of worship and pilgrimage site in Chamoli district, Uttarakhand, India. It is devoted to Guru Gobind Singh (1666–1708), the tenth Sikh Guru, and finds mention in Dasam Granth. With its setting of a glacial lake surrounded by seven mountain peaks, each adorned by a Nishan Sahib on its cliff, it is according to the Survey of India located in the Himalayas at an elevation of 4,160 meters (13,650 feet).[1] It is approached from Govindghat on the Rishikesh-Badrinath highway. The main town near Gobindghat is Joshimath.
+    </string>
+    <string name="sayopathtal">
+        Satopanth Tal is a crystal clear green water, the triangular lake at an elevation of 4600 meters above sea level and is decorated in the midst of the snow-shrouded peaks. Locals say this lake is where gods Brahma, Vishnu and Shiva meditated. Apart from religious significance Satopanth also become one of the Popular treks in Uttarakhand. The trek to Satopanth is takes you ancient Magic, India’s last village, the popular Vasudhara waterfall and the Sahastradhara falls. This glacier trek offers majestic views of Himalayas.
+    </string>
+    <string name="vasuki">
+        •	It is Located at 3,135 meters, the crystal-clear blue-water lake of Vasuki is about 8 km from Kedarnath. It is Set in the midst of snowy mountains this lake provides a charming view of the massive Chaukhamba peaks.  It is quite a difficult trek and involves going across glaciers , but the walk among the untouched Himalayas is worth every bit of effort. The Locals say the lake draws its name from its shape, which resembles serpent king Vasuki wrapped around Lord Shiva’s neck.
+    </string>
+    <string name="wild">
+        •	The Kedarnath Wildlife Sanctuary famously known as the “Kedarnath Musk Deer Sanctuary” or “Kedarnath Vanya Jeev Prabha” is spread over districts of UttarKhand.It was named after the famous Hindu temple of Kedarnath which lies outside the Northern border of the Sanctuary. The sanctuary has a large number of temples located within its precincts, the Kedarnath temple being the most popular.
+    </string>
+    <string name="kedart">
+        Kedartal also known as ‘Shiva’s Lake’ is one of the highest lakes in Uttarakhand. It is a stunning circle of emerald encircled by towering snow-covered peaks. This immaculate glacial lake is seated at an elevation of 4,912 metres above sea level and the around 18-km trek from Gangotri to the glacial lake is challenging, the sight of the clear water reflecting the almost perfect Thalaysagar peak. It is a one-in-a-lifetime experience.
+    </string>
+    <string name="tapo">
+<b>T</b>he most well known tapovan in India is the area above the Gangotri Glacier at one of the primary sources of the Ganges, in Uttarakhand, India. At the foot of Shivling peak, a barren area at about 4,463m elevation, is a seasonal home to several sadhus living in caves, huts, etc. and it has become a trekking destination also.The trekking usually starts from Gomukh and the trek was considered moderate to difficult[1] prior to the destruction of much of the trail from Gangotri to Gaumukh by the 2013 North Indian Flood.
+    </string>
+    <string name="bhairon">
+<b>Bhaironghati</b> is a small settlement at the juncture of the Jadh Ganga and Bhagirathi Rivers in the mountains of northern India. It is located in the Uttarkashi district of the Indian state Uttarakhand.The Bhairon Temple remained ignored prior to take over of the holy Shrine by Shri Mata Vaishno Devi Shrine Board in the year 1986. The track leading to the temple was Kacha and in a dilapidated condition, making the climb a gruelling task. After the take over, emphasis was laid on developments in this area, particularly the widening and beautification of the track, remodelling of steps, construction of rain shelters, toilets etc. The whole track has now been illuminated with High Pressure Sodium Vapour Lamps.
+
+    </string>
+
+    <string name="pand">
+     The Pandav Gufa is a mystical cave that can be accessed by starting a short trek of 1.5 km from Gangotri Dham. Mythology says that the Pandava princes of the epic Mahabharata stayed in this cave and meditated while they were heading to Kailash, hence its name is given as Pandava Gufa. A walk of around 2 hours through a flawless forest leads you to this cave, where a sage resides.
+    </string>
+    <string name="GITA">
+    <b>Gita Bhawan</b> is a large complex located at the banks of holy river Ganaga in Swargashram, Rishikesh. It is near the Lakshman Jhula, is the newly constructed building of Gita Bhawan. It is a huge complex of Geeta Bhawan has several discourse halls and over 1000 rooms for the comfortable stay of devotees free of cost. It runs a free Ayurvedic dispensary and also has a branch of the Gita Press. The stories of the epics Ramayana and the Mahabharata are beautifully illustrated on its walls.
+    </string>
+    <string name="BYASI">
+    <b>Byasi</b> is small village in Uttarakhand located at the banks of holy river Ganga. This small village located at the banks of River Ganga is a rafting and water sports adventure hub, just 30 km from Rishikesh. Byasi has favourable demography and consistent flow of river Ganga which helps in smooth and easy river rafting. The road from Rishikesh to Byasi is smooth, snaking up the mountains, offering stunning views of the Ganga and the hills.
+
+    </string>
+    <string name="parmarth">
+        This is one of the largest ashrams in Rishikesh and one of the most popular too, specially for the annual yoga festival that it hosts.It is Established in 1942 by Swami Sukhdevanand Ji Maharaj, the ashram is located at the bank of River Ganga and is a serene site for yoga and meditation. "Parmarth Niketan is a wonderful place of Eternity and Spirituality located in the lap of the mighty Himalaya and banks of Ma Ganga. It is like a heaven on Earth.
+    </string>
+
+
+    <string name="how_to_reach">How To Reach</string>
+
+    <string name="button">Button</string>
+
+    <string name="flight">FLIGHT</string>
+    <string name="book_flight">BOOK FLIGHT</string>
+    <string name="book_train">BOOK TRAIN</string>
+    <string name="book_bus">BOOK BUS</string>
+
+    <string name="bus_tckt">
+        \n
+        BOOK BUS TICKETS ONLINE:\n\n\n
+Step-1 :-  Login to URL https://www.abhibus.com/ \n
+
+Step-2 :- Enter the Source and Destination details in the “leaving from” and “Going to” tab respectively\n
+
+ Step -3 :- Select the “Journey date” from calendar icon and click on the “Search” button\n
+
+ Step-4  :- Select any bus operator of your choice from the list of buses which are displayed\n
+
+ Step-5  :- Select a seat, boarding and dropping points and hit “Continue to payment”\n
+
+ Step-6  :- Enter all the required information including contact number and passenger details\n
+
+  Step-7  :- Complete the payment process be selecting your mode of payment\n
+    </string>
+
+    <string name="ra"> 4.Yamunothri Cottages</string>
+    <string name="ja"> 2.Dayara Bugyal Sarai Homestay </string>
+    <string name="kaa"> 3.Rigveda Resort Barkot </string>
+
+    <string name="sato">
+
+   <b> Rating</b> - 4.3(Google Ratings)  \n
+
+ <b> Address </b> -NearHelipad,KharsaliVillage,JankiChatti,Uttarakhand <b> pincode - 249141</b>  -  \n
+
+ <b>Contact no .</b> -08700347410\n
+    <b>Property amenities</b>
+Freeparking\t\tFreebreakfast\t\tRestaurant\t
+Privatecheck-in/check-out\t\tLaundryservice\t
+
+       <b>Roomfeatures</b>
+Desk,\t\t
+Housekeeping,\t\t
+Interconnectedroomsavailable,\t\t
+Seatingarea,\t\t
+Clothesrack,\t\t
+Bath/shower,\t\t
+Complimentarytoiletries.\n
+
+
+      </string>
+    <string name="sa">1. Buransh Home Stay </string>
+    <string name="nato">
+
+   <b> Rating</b> - 4.5(Google Ratings)  \n
+
+ <b> Address </b> - P.O, Village Agoda, Bhankoli, Uttarakhand <b> pincode - 249193</b>  -  \n
+
+ <b>Contact no .</b> - 089542 97901\n
+    <b>Property amenities</b>
+Pool \t  \t         Parking Free  \t\t       Free Wi-Fi \t
+        Private check-in / check-out  \t \t      Laundry service\t
+       <b>Activities</b>
+Bicycle hire , \t\t
+Tennis, \t\t
+Horse Riding,\t\t
+Water skiing,\t\t
+Boutique shopping,\t\t
+Nightclub\t\t  \n\n
+
+
+      </string>
+    <string name="ato">
+
+   <b> Rating</b> - 4.9(Google Ratings)  \n
+
+ <b> Address </b> - Bhatwari, Barsu Rd, Barsu, Uttarakhand  <b>pincode</b>  -  249135\n
+
+ <b>Contact no .</b> - 099177 28363\n
+    <b>Property amenities</b>
+Free parking \t  \t         Room service  \t\t       Restaurant \t
+        Private check-in / check-out  \t \t      Laundry service\t \n\n
+
+
+
+      </string>
+
+
+    <string name="bato">
+\n
+   <b> Rating</b> - 4.7(Google Ratings)  \n
+
+ <b> Address </b> - Nandgaon, Barkot yamnotri road, Uttarakhand  <b>pincode</b>  -  249141\n
+
+ <b>Contact no .</b> -  090234 80234\n
+    <b>Property amenities</b>
+Free parking \t  \t         Room service  \t\t       Restaurant \t
+        Private check-in / check-out  \t \t      Laundry service\t
+
+    \n
+
+
+
+      </string>
+
+
+    <string name="G_txt4"> 4.Lokesh Home Stay </string>
+    <string name="G_txt2"> 2.Sunder Homestay </string>
+    <string name="G_txt3"> 3. Nelong home stay </string>
+
+    <string name="G_ho4">
+
+   <b> Rating</b> - 5.0(Google Ratings)  \n
+
+ <b> Address </b> - Lokesh home Stay, uttarkashi National Highway 34, Uttarkashi - Gangotri Rd, NH34, Gangori, Uttarakhand  <b>pincode</b>  - 249193\n
+
+ <b>Contact no .</b> - 09456111256\n
+    <b>Property amenities</b>
+Spa \t  \t        pool \t\t       Restaurant \t\t     Wi-Fi  \t\t   Horse Riding  \t\t
+        Private check-in / check-out  \t \t
+
+
+      </string>
+    <string name="G_txt1">1.SRAVASTI Home Stay </string>
+    <string name="G_ho1">
+
+   <b> Rating</b> - 5.0(Google Ratings)  \n
+
+ <b> Address </b> -NH 34,GANGOTRI national highway, Uttarkashi - Gangotri Rd, Hina, Uttarakhand <b> pincode - 249193</b>  -  \n
+
+ <b>Contact no .</b> - 089542 97901\n
+    <b>Property amenities</b>
+Room Service \t  \t         Kitchen  \t\t       AC \t
+        Private check-in / check-out  \t \t      Free Wi-Fi\t
+
+        \n\n
+
+
+      </string>
+    <string name="G_ho2">
+
+   <b> Rating</b> - 4.9(Google Ratings)  \n
+
+ <b> Address </b> - mukhba road, Harsil, Uttarakhand   <b>pincode</b>  -  249195\n
+
+ <b>Contact no .</b> -  090272 09448\n
+    <b>Property amenities</b>
+Free parking \t  \t         Room service  \t\t       Restaurant \t
+        Private check-in / check-out  \t \t      Laundry service\t \n\n
+
+
+
+      </string>
+
+
+    <string name="G_ho3">
+\n
+   <b> Rating</b> - 4.7(Google Ratings)  \n
+
+ <b> Address </b> - Nandgaon, Barkot yamnotri road, Uttarakhand  <b>pincode</b>  -  249141\n
+
+ <b>Contact no .</b> -  090234 80234\n
+    <b>Property amenities:</b>
+Free parking \t  \t         Room service  \t\t       Restaurant \t
+        Private check-in / check-out  \t \t      Laundry service\t
+
+
+
+      </string>
+
+    <string name="B_txt4"> 4.Nk brothers homestay</string>
+    <string name="B_txt2"> 2.Bagasi homestay </string>
+    <string name="B_txt3"> 3.Urgam Bansi Narayan Homestay </string>
+
+    <string name="B_ho4">
+
+   <b> Rating</b> - 4.3(Google Ratings)  \n
+
+ <b> Address </b> - Way, Kedarnath, Uttarakhand  <b>pincode</b>  -  246445\n
+
+ <b>Contact no .</b> - 093059 26456\n
+    <b>Property amenities</b>
+Free parking \t  \t         Restaurant \t
+        Private check-in / check-out  \t \t
+
+
+      </string>
+    <string name="B_txt1">1.BHARAT SHREE GUEST HOUSE</string>
+    <string name="B_ho1">
+        \n
+
+   <b> Rating</b> - 5.0(Google Ratings)  \n
+
+ <b> Address </b> -  Kedarnath Rd, Sersi, Uttarakhand <b> pincode - 246471</b>  -  \n
+
+ <b>Contact no .</b> -  099976 69887\n
+    <b>Property amenities</b>
+      Parking Free  \t\t       Free Wi-Fi \t   Room Service \t
+        Private check-in / check-out  \t \t
+
+        \n\n
+
+
+
+
+
+      </string>
+    <string name="B_ho2">
+
+   <b> Rating</b> - 5.0(Google Ratings)  \n
+
+ <b> Address </b> - J39F+5W3, Chaumasi, Uttarakhand  <b>pincode</b>  -  246471\n
+
+ <b>Contact no .</b> - 9759934535\n
+    <b>Property amenities</b>
+Free parking \t  \t         Room service  \t\t       Restaurant \t
+        Private check-in / check-out  \t \t      Laundry service\t \n\n
+
+
+
+
+      </string>
+
+
+    <string name="B_ho3">
+\n\n
+   <b> Rating</b> - 4.2(Google Ratings)  \n
+
+ <b> Address </b> - Gauri Kund - Kedarnath Trekking Way, near Kedarnath Temple, Kedarnath, Uttarakhand  <b>pincode</b>  -  246445\n
+
+ <b>Contact no .</b> - 9664625070\n
+    <b>Property amenities</b>
+     Front desk 24-HOUR \t \t       Free parking \t  \t         Room service  \t\t       Restaurant \t
+        Private check-in / check-out  \t \t      Laundry service\t
+
+
+
+      </string>
+    <string name="K_txt4"> 4.Mathura House Kedarnath</string>
+    <string name="K_txt2"> 2.Akash Home Stay </string>
+    <string name="K_txt3"> 3.Kedarnath Meerut Mandal </string>
+
+    <string name="K_ho4">
+
+   <b> Rating</b> - 4.3(Google Ratings)  \n
+
+ <b> Address </b> - Way, Kedarnath, Uttarakhand  <b>pincode</b>  -  246445\n
+
+ <b>Contact no .</b> - 093059 26456\n
+    <b>Property amenities</b>
+Free parking \t  \t         Restaurant \t
+        Private check-in / check-out  \t \t
+
+
+      </string>
+    <string name="K_txt1">1. Trilochanis home stay</string>
+    <string name="K_ho1">
+        \n
+
+   <b> Rating</b> - 5.0(Google Ratings)  \n
+
+ <b> Address </b> -  Kedarnath Rd, Sersi, Uttarakhand <b> pincode - 246471</b>  -  \n
+
+ <b>Contact no .</b> -  099976 69887\n
+    <b>Property amenities</b>
+      Parking Free  \t\t       Free Wi-Fi \t   Room Service \t
+        Private check-in / check-out  \t \t
+
+        \n\n
+
+
+
+
+
+      </string>
+    <string name="K_ho2">
+
+   <b> Rating</b> - 5.0(Google Ratings)  \n
+
+ <b> Address </b> - J39F+5W3, Chaumasi, Uttarakhand  <b>pincode</b>  -  246471\n
+
+ <b>Contact no .</b> - 9759934535\n
+    <b>Property amenities</b>
+Free parking \t  \t         Room service  \t\t       Restaurant \t
+        Private check-in / check-out  \t \t      Laundry service\t \n\n
+
+
+
+
+      </string>
+
+
+    <string name="K_ho3">
+\n\n
+   <b> Rating</b> - 4.2(Google Ratings)  \n
+
+ <b> Address </b> - Gauri Kund - Kedarnath Trekking Way, near Kedarnath Temple, Kedarnath, Uttarakhand  <b>pincode</b>  -  246445\n
+
+ <b>Contact no .</b> - 9664625070\n
+    <b>Property amenities</b>
+     Front desk 24-HOUR \t \t       Free parking \t  \t         Room service  \t\t       Restaurant \t
+        Private check-in / check-out  \t \t      Laundry service\t
+
+
+
+      </string>
+
+
+    <string name="N_txt4"> 4.64434 Alluring Stay Nainital</string>
+    <string name="N_txt2"> 2.Home Stay At Brae House </string>
+    <string name="N_txt3"> 3.The Hilly Essence Homestay</string>
+
+    <string name="N_ho4">
+
+   <b> Rating</b> - 5.0(Google Ratings)  \n
+
+ <b> Address </b> -  Shyam sunder regency, Mallital, Nainital, Uttarakhand<b>pincode</b>  -  263001\n
+
+ <b>Contact no .</b> - 0124 620 1531\n
+    <b>Property amenities</b>
+Free parking \t  \t         Restaurant \t     Free Wi-Fi\t\t
+        Private check-in / check-out  \t \t
+
+
+      </string>
+    <string name="N_txt1">1.Camp Mehi Nature Resort , Pangoot, Nainital</string>
+    <string name="N_ho1">
+        \n
+
+   <b> Rating</b> - 4.4(Google Ratings)  \n
+
+ <b> Address </b> -   Patkot, Pangoot, Uttarakhand <b> pincode - 263001</b>  -  \n
+
+ <b>Contact no .</b> -  090120 63669\n
+    <b>Property amenities</b>
+      Bicycle hire  \t\t       Free Wi-Fi \t   Room Service \t
+       Camp fire  \t \t
+
+        \n\n
+
+
+
+
+
+      </string>
+    <string name="N_ho2">
+
+   <b> Rating</b> - 5.0(Google Ratings)  \n
+
+ <b> Address </b> - Upper Cheena Mall, Mallital, Nainital, Uttarakhand   <b>pincode</b>  -  263001\n
+
+ <b>Contact no .</b> - 097605 75917\n
+    <b>Property amenities</b>
+Free parking \t  \t         Room service  \t\t       Smoke-free property \t
+        Private check-in / check-out  \t \t      NFC mobile payments\t \n\n
+
+
+
+
+      </string>
+
+
+    <string name="N_ho3">
+\n\n
+   <b> Rating</b> - 5.0(Google Ratings)  \n
+
+ <b> Address </b> - Gram Devta P. O. Veer Bhatti Beluakhan, Nainital, Uttarakhand   <b>pincode</b>  -  263002\n
+
+ <b>Contact no .</b> - 098372 53263\n
+    <b>Property amenities</b>
+     Child friendly \t \t       Free parking \t  \t         Room service  \t\t       Restaurant \t
+        Private check-in / check-out  \t \t
+
+
+
+      </string>
+
+    <string name="R_txt4"> 4.Darsh Homestay</string>
+    <string name="R_txt2"> 2.Om Home Stay  </string>
+    <string name="R_txt3"> 3.MAYANK HOMESTAY</string>
+
+    <string name="R_ho4">
+
+   <b> Rating</b> - 5.0(Google Ratings)  \n
+
+ <b> Address </b> -  Open mic cafe, Geeta Nagar, Rishikesh, Uttarakhand<b>pincode</b>  -  249192\n
+
+ <b>Contact no .</b> - 082734 59773\n
+    <b>Property amenities</b>
+Free parking \t  \t         Restaurant \t     Free Wi-Fi\t\t
+        Private check-in / check-out  \t \t
+
+
+      </string>
+    <string name="R_txt1">1.MADHUVAN HOME STAY TAPOVAN</string>
+    <string name="R_ho1">
+        \n
+
+   <b> Rating</b> - 5.0(Google Ratings)  \n
+
+ <b> Address </b> -   Near Jashoda Guest House, Tapovan, Rishikesh, Uttarakhand <b> pincode -  249137</b>  -  \n
+
+ <b>Contact no .</b> -  099178 63659\n
+    <b>Property amenities</b>
+      Airport shuttle  \t\t       Free Wi-Fi \t   Room Service \t
+       Child Friendly  \t \t
+
+        \n\n
+
+
+
+
+
+      </string>
+    <string name="R_ho2">
+
+   <b> Rating</b> - 4.9(Google Ratings)  \n
+
+ <b> Address </b> - Om Homestay, Upper, Tapovan, Rishikesh, Uttarakhand  <b>pincode</b>  -  249192\n
+
+ <b>Contact no .</b> - 094154 55152\n
+    <b>Property amenities</b>
+Bicycle Hire \t  \t  Room service  \t\t  Smoke-free property Private check-in / check-out  \t \t      Car Rental onsite\t \n\n
+
+
+
+
+      </string>
+
+
+    <string name="R_ho3">
+\n\n
+   <b> Rating</b> - 5.0(Google Ratings)  \n
+
+ <b> Address </b> - Gulab Nagar Rd, Tapovan, Rishikesh, Uttarakhand   <b>pincode</b>  -  249192\n
+
+ <b>Contact no .</b> -  096753 06605\n
+    <b>Property amenities</b>
+     Child friendly \t \t       Free parking \t  \t         Room service  \t\t       Restaurant \t
+        Private check-in / check-out  \t \t
+
+
+
+      </string>
+
+
+    <string name="htry_txt1">
+        There is no direct flight connectivity to Yamunotri. The nearest airport is in Dehradun, around 198 km away from
+the Yamunotri. If possible, you can also go for the helicopter service from Dehradun to Yamunotri. Nearest Airport:
+Dehradun - 86 kms from Yamunotri
+    </string>
+    <string name="title_activity_maps_yam">MapsActivity_yam</string>
+
+    <string name="htry_txt2">
+There is no direct rail connectivity to Yamunotri. Rishikesh railway station is the nearest railway station to the site, almost 211 km away from the same. You can opt for private taxis or buses to travel to Yamunotri.
+
+    </string>
+    <string name="htry_txt3">
+          There is no direct road connectivity to Yamunotri in any respect. The nearest road stop is in Uttarkashi, which is 122 km away from Janki Chatti, the nearest Jeep stop to Yamunotri, from where the trekking trip to Yamunotri is 4 km. You can have horses and palanquins for rent if you do not want to trek on foot.
+
+    </string>
+    <string name="gtry_txt1">
+        Jolly Grant at Dehradun, 226 km away, is the nearest airport. Taxis, private cars, state road transport buses are available from the airport to Gangotri via Rishikesh.
+
+    </string>
+    <string name="gtry_txt2">
+        The nearest railway station is Rishikesh, which is well connected to Dehradun and Delhi.Rishikesh railway station is considered as the nearest railway station which is almost 243 kilometers away from Gangotri. The railway station is located on NH58 and it takes few hours to reach the place. Here one can get number of trains to Rishikesh that further connects it to major parts in Uttaranchal such as Rishikesh, Tehri Garhwal, Uttarkashi and many others
+    </string>
+    <string name="gtry_txt3">
+        There are daily bus services from Gangotri to Rishikesh, Haridwar and Dehradun. Jeeps and tempos are available from Rishikesh to Gangotri.
+
+    </string>
+    <string name="ktry_txt1">
+        The nearest domestic airport is Jolly Grant Airport in Dehradun, about 239 km from Kedarnath and operates daily flights to Delhi. Taxis are available from Dehradun airport to Kedarnath. Nearest international airport is Delhi.
+
+    </string>
+    <string name="ktry_txt2">
+
+        The nearest railhead is at Rishikesh, 221 km away. Pre-paid taxi services are available at the railway station which charge about Rs 3,000. One has to travel 207 km by road and the rest 14 km on foot to reach Kedarnath.
+
+    </string>
+
+    <string name="ktry_txt3">
+        Visitors can board regular buses from Rishikesh and Kotdwar to Kedarnath. Private taxis can also be hired from these places. The National Highway from Delhi to Mana (538 km) remains open throughout the year. Kedarnath is also accessible by foot from GauriKund, which is connected by state buses to Rishikesh, Dehradun, Kotdwara and Haridwar. The bus fares vary depending on the season.
+
+    </string>
+    <string name="btry_txt1">
+        The nearest airport from Badrinath is the Jolly Grant Airport near Dehradun, about 317 km from Badrinath.\nThe distance by a helicopter journey is hardly 100 km. There are many providers of helicopter service from Dehradun to Badrinath.
+
+
+    </string>
+    <string name="btry_txt2">
+The nearest railway stations to Badrinath are at Rishikesh (297 kms), Haridwar (324 kms) and Kotadwar (327 kms). Rishikesh is not connected by fast trains and Kotadwar has very less number of trains. Thus Haridwar serves as the best railway station if you are visiting Badrinath by train. Haridwar is connected by many trains from all part of India.
+
+    </string>
+    <string name="btry_txt3">
+        Badrinath is easily accessible by road. It is located at a distance of 525 Km from Delhi and 296 Km from Rishikesh. There are regular buses operating to Badrinath from Delhi, Haridwar and Rishikesh.
+
+    </string>
+    <string name="title_activity_maps_ked">MapsActivity_ked</string>
+
+</resources>

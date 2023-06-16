@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tourism">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Tourism">
+
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCxvEMWH2ADcuJ0tZP-8VvKkfbeMszcyYs" />
+
+        <activity
+            android:name=".MapsActivity_ked"
+            android:exported="false"
+            android:label="@string/title_activity_maps_ked" />
+        <activity
+            android:name=".MapsActivity_yam"
+            android:exported="false"
+            android:label="@string/title_activity_maps_yam" />
+        <activity
+            android:name=".yamnotri_first"
+            android:label="YAMUNOTRI"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".kedarnath_first"
+            android:label="KEDARNATH"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".badrinath_first"
+            android:label="BADRINATH"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".gangotri_first"
+            android:label="GANGOTRI"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".yam_first_att"
+            android:label="ATTRACTIONS"
+            android:parentActivityName=".yamnotri_first" />
+        <activity
+            android:name=".yam_att_kha"
+            android:label="Kharsali"
+            android:parentActivityName=".yam_first_att" />
+        <activity
+            android:name=".yam_att_han"
+            android:label="HANUMAN Chatti"
+            android:parentActivityName=".yam_first_att" />
+        <activity
+            android:name=".nainital_first"
+            android:label="NAINITAL"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".rishikesh_first"
+            android:label="Rishikesh"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".yamunotri_des"
+            android:label="Description "
+            android:parentActivityName=".yamnotri_first" />
+        <activity
+            android:name=".how_to_reach_ym"
+            android:label="HOW TO REACH "
+            android:parentActivityName=".yamnotri_first" />
+        <activity
+            android:name=".gang_des"
+            android:label="DESCRIPTION"
+            android:parentActivityName=".gangotri_first" />
+        <activity
+            android:name=".gang_att"
+            android:label="ATTRACTIONS"
+            android:parentActivityName=".gangotri_first" />
+        <activity
+            android:name=".how_to_reach_gngt"
+            android:label="How TO Reach Gangotri "
+            android:parentActivityName=".gangotri_first" />
+        <activity
+            android:name=".gang_att_kedartal"
+            android:label="Kedartal"
+            android:parentActivityName=".gang_att" />
+        <activity
+            android:name=".gang_att_tapovan"
+            android:label="Tapovan"
+            android:parentActivityName=".gang_att" />
+        <activity
+            android:name=".gang_att_bhaironghati"
+            android:label="Bhairon Ghati"
+            android:parentActivityName=".gang_att" />
+        <activity
+            android:name=".gang_att_pandavagufa"
+            android:label="Pandava Gufa "
+            android:parentActivityName=".gang_att" />
+        <activity
+            android:name=".rishi_att_geetabhavan"
+            android:label="Geeta Bhavan "
+            android:parentActivityName=".rishikesh_att" />
+        <activity
+            android:name=".rishi_att_byasi"
+            android:label="Byasi"
+            android:parentActivityName=".rishikesh_att" />
+        <activity
+            android:name=".rishi_att_parmarthniketan"
+            android:label="Parmarth Niketan "
+            android:parentActivityName=".rishikesh_att" />
+        <activity
+            android:name=".kedarnath_des"
+            android:label="Description "
+            android:parentActivityName=".kedarnath_first" />
+        <activity
+            android:name=".how_to_reach_ked"
+            android:label="How To Reach Kedarnath "
+            android:parentActivityName=".kedarnath_first" />
+        <activity
+            android:name=".yam_att_sptknd"
+            android:label="Saptrishi Kund"
+            android:parentActivityName=".yam_first_att" />
+        <activity
+            android:name=".yam_att_jnkchti"
+            android:label="Janki Chatti"
+            android:parentActivityName=".yam_first_att" />
+        <activity
+            android:name=".kedarnath_att"
+            android:label="ATTRACTIONS"
+            android:parentActivityName=".kedarnath_first" />
+        <activity
+            android:name=".ked_att_gaurikund"
+            android:label="Gauri Kund"
+            android:parentActivityName=".kedarnath_att" />
+        <activity
+            android:name=".ked_att_bhairav"
+            android:label="Bhairav Nath Temple"
+            android:parentActivityName=".kedarnath_att" />
+        <activity
+            android:name=".badrinath_des"
+            android:label="Description"
+            android:parentActivityName=".badrinath_first" />
+        <activity
+            android:name=".how_to_reach_badri"
+            android:label="How To REach Badri "
+            android:parentActivityName=".badrinath_first" />
+        <activity
+            android:name=".badri_att"
+            android:label="Attractions"
+            android:parentActivityName=".badrinath_first" />
+        <activity
+            android:name=".badri_att_vasfall_des"
+            android:label="Vasundhara Falls "
+            android:parentActivityName=".badri_att" />
+        <activity
+            android:name=".badri_att_pndshila"
+            android:label="PanchDhara and Panchshila"
+            android:parentActivityName=".badri_att" />
+        <activity
+            android:name=".bdr_att_hemkundsahib"
+            android:label="Hemkund Sahib"
+            android:parentActivityName=".badri_att" />
+        <activity
+            android:name=".bdr_att_satopanthtal"
+            android:label="Satopanth Tal"
+            android:parentActivityName=".badri_att" />
+        <activity
+            android:name=".ked_att_vasukital"
+            android:label="Vasuki Tal"
+            android:parentActivityName=".kedarnath_att" />
+        <activity
+            android:name=".ked_att_wldlyfsanc"
+            android:label="Wildlife Sanctuary"
+            android:parentActivityName=".kedarnath_att" />
+        <activity
+            android:name=".nainital_des"
+            android:label="Description"
+            android:parentActivityName=".nainital_first" />
+        <activity
+            android:name=".nainital_att"
+            android:label="Nainital Attractions"
+            android:parentActivityName=".nainital_first" />
+        <activity
+            android:name=".nainital_att_lake_des"
+            android:label="Nainital Lake "
+            android:parentActivityName=".nainital_att" />
+        <activity
+            android:name=".nainzoo"
+            android:label="Nainital zoo"
+            android:parentActivityName=".nainital_att" />
+        <activity
+            android:name=".nainital_att_nainitemple"
+            android:label="Naina Devi Temple"
+            android:parentActivityName=".nainital_att" />
+        <activity
+            android:name=".nainital_att_kainchidham_des"
+            android:label="Kainchi Dham"
+            android:parentActivityName=".nainital_att" />
+        <activity
+            android:name=".rishikesh_des"
+            android:label="Description"
+            android:parentActivityName=".rishikesh_first" />
+        <activity
+            android:name=".how_to_reach_rishi"
+            android:label="How TO Reach Rishikesh "
+            android:parentActivityName=".rishikesh_first" />
+        <activity
+            android:name=".rishikesh_att"
+            android:label="Attractions"
+            android:parentActivityName=".rishikesh_first" />
+        <activity
+            android:name=".rishi_att_lakshmanjhula_des"
+            android:label="Lakhman Jhula "
+            android:parentActivityName=".rishikesh_att" />
+        <activity
+            android:name=".reach_bybus_yam"
+            android:label="Bus Ticket Booking"
+            android:parentActivityName=".how_to_reach_ym" />
+        <activity
+            android:name=".reach_bybus_gang"
+            android:label="BUS TICKET BOOKING "
+            android:parentActivityName=".how_to_reach_gngt" />
+        <activity
+            android:name=".reach_bybus_ked"
+            android:label="BUS TICKET BOOKING "
+            android:parentActivityName=".how_to_reach_ked" />
+        <activity
+            android:name=".yam_accomodation"
+            android:label="Accomodation "
+            android:parentActivityName=".yamnotri_first" />
+        <activity
+            android:name=".gang_accomodation"
+            android:label="Accomodation "
+            android:parentActivityName=".gangotri_first" />
+        <activity
+            android:name=".badri_accomodation"
+            android:label="Accomodaytions"
+            android:parentActivityName=".badrinath_first" />
+        <activity
+            android:name=".kedarnath_accomodation"
+            android:label="Accomodations"
+            android:parentActivityName=".kedarnath_first" />
+        <activity
+            android:name=".naini_accomodation"
+            android:label="Accomodation "
+            android:parentActivityName=".nainital_first" />
+        <activity
+            android:name=".rishikesh_accomodation"
+            android:label="Accomodation"
+            android:parentActivityName=".rishikesh_first" />
+        <activity
+            android:name=".yam_htr_flight"
+            android:label="How To Reach By Flight"
+            android:parentActivityName=".how_to_reach_ym" />
+        <activity
+            android:name=".yam_htrtrain"
+            android:label="How To Reach By Train "
+            android:parentActivityName=".how_to_reach_ym" />
+        <activity
+            android:name=".yam_htrbus"
+            android:label="How To Reach By Bus "
+            android:parentActivityName=".how_to_reach_ym" />
+        <activity
+            android:name=".gang_htr_flight"
+            android:label="How To REach By Flight "
+            android:parentActivityName=".how_to_reach_gngt" />
+        <activity
+            android:name=".gang_htr_train"
+            android:label="How To Reach By Train "
+            android:parentActivityName=".how_to_reach_gngt" />
+        <activity
+            android:name=".gang_htr_bus"
+            android:label="How To Reach By Bus"
+            android:parentActivityName=".how_to_reach_gngt" />
+        <activity
+            android:name=".ked_htr_flight"
+            android:label="How TO Reach By Flight"
+            android:parentActivityName=".how_to_reach_ked" />
+        <activity
+            android:name=".ked_htr_train"
+            android:label="How To REAch By Train"
+            android:parentActivityName=".how_to_reach_ked" />
+        <activity
+            android:name=".ked_htr_bus"
+            android:label="How To Reach By Train "
+            android:parentActivityName=".how_to_reach_ked" />
+        <activity
+            android:name=".badri_htr_flight"
+            android:label=" How To Reach by Flight "
+            android:parentActivityName=".how_to_reach_badri" />
+        <activity
+            android:name=".badri_htr_train"
+            android:label="How To Reach By Train "
+            android:parentActivityName=".how_to_reach_badri" />
+        <activity
+            android:name=".badri_htr_bus"
+            android:label="How To Reach By Bus "
+            android:parentActivityName=".how_to_reach_badri" />
+        <activity
+            android:name=".yam_connectingplace"
+            android:label="Connecting Places To Yamunotri"
+            android:parentActivityName=".yamnotri_first" />
+        <activity
+            android:name=".yam_map"
+            android:label="Maps"
+            android:parentActivityName=".yamnotri_first" />
+        <activity
+            android:name=".ked_maps"
+            android:label="Maps"
+            android:parentActivityName=".kedarnath_first" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
